@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Pablo1990.github.io
+title: Few BIO + plenty of INFORMATICS
+email: pablovm1990@gmail.com
+author: Pablo Vicente Munuera
+description: Bioinformatics is the field of this blog. I'm no biologist, so the main approach that you will see on this blog is the one of a simply computer scientist, with a bit of biology.
+paginate: 3
+google_analytics: 
